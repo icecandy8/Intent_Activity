@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\student\.android\build-cache\929de1a4cd9343f093551c6a1fcda0ee7cbd773a\output\assets"/></dataSet><dataSet config="main"><source path="D:\150953196\lab2\lab22\app\src\main\assets"/><source path="D:\150953196\lab2\lab22\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\150953196\lab2\lab22\app\src\debug\assets"/></dataSet></merger>

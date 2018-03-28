@@ -1,0 +1,7 @@
+#Wed Jan 17 09:13:51 IST 2018
+base.0=D\:\\150953196\\lab2\\lab22\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_d1c6da794545c7a7d64b775ca6003ee1f8c5a224
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\150953196\\lab2\\lab22\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_cb6d4c0588bd6249aeb06bd8e04b8426f5eba40b\\classes.dex
+base.1=D\:\\150953196\\lab2\\lab22\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_cb6d4c0588bd6249aeb06bd8e04b8426f5eba40b
+file.0=D\:\\150953196\\lab2\\lab22\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_d1c6da794545c7a7d64b775ca6003ee1f8c5a224\\classes.dex

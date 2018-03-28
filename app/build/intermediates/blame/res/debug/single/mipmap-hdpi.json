@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/meanmachine/AndroidStudioProjects/lab22/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/meanmachine/AndroidStudioProjects/lab22/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/meanmachine/AndroidStudioProjects/lab22/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/meanmachine/AndroidStudioProjects/lab22/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/meanmachine/AndroidStudioProjects/lab22/D:\\150953196\\lab2\\lab22\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "/home/meanmachine/AndroidStudioProjects/lab22/D:\\150953196\\lab2\\lab22\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/meanmachine/AndroidStudioProjects/lab22/D:\\150953196\\lab2\\lab22\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "/home/meanmachine/AndroidStudioProjects/lab22/D:\\150953196\\lab2\\lab22\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]
